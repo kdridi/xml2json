@@ -1,1 +1,4 @@
-XML2JSON Utils
+XML2JSON Utility
+
+For MacOSX Users, please run the command: brew install fox json-c
+For linux users, you'll need libfox-dev and libjson-dev
