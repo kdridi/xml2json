@@ -1,0 +1,6 @@
+/xml2json
+/*.o
+/xml2json_transformer.h
+/.cproject
+/.project
+/samples/
