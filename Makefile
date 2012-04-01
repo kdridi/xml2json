@@ -23,7 +23,3 @@ clean:
 
 %.c: %.xsl %.h
 	reswrap -ta -s -z    -o $@ $<
-	
-
-
-	
