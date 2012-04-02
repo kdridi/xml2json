@@ -1,6 +1,8 @@
+/block
+/opml2json
 /xml2json
 /*.o
-/xml2json_transformer.h
+/api_xml2json.h
 /.cproject
 /.project
 /samples/
